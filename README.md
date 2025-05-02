@@ -6,8 +6,7 @@
 🌱 Actualmente aprendiendo y profundizando en **ASP.NET Core y PostgreSQL**  
 💼 Enfocado en desarrollo web con **CodeIgniter**, **JavaScript** y **.NET Core**  
 💬 Pregúntame sobre **Desarrollo Backend, Git y buenas prácticas de programación**  
-📫 Contáctame en [LinkedIn](https://www.linkedin.com/in/nelson-numa-conde-salgado-1b03b11b9/)  
-⚡ Dato curioso: *Siempre busco optimizar el tiempo entre el desarrollo y lo funcional.*
+⚡ Dato curioso: *Me gusta un poco el lenguaje ensamblador*
 
 ---
 
